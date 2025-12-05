@@ -1,0 +1,4 @@
+ - [ ] Find Dome more East Bay venues
+ - [ ] Lok for more night life
+ - [ ] Follow up with restaurants 
+ - [ ] Get Ferry Routes, trolly faire, bus routes and surge pricing

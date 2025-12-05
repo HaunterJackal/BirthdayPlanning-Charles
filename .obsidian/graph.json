@@ -1,0 +1,51 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#Restaurant  ",
+      "color": {
+        "a": 1,
+        "rgb": 16354273
+      }
+    },
+    {
+      "query": "tag:#Theatre  ",
+      "color": {
+        "a": 1,
+        "rgb": 1772287
+      }
+    },
+    {
+      "query": "file:Menu",
+      "color": {
+        "a": 1,
+        "rgb": 15905282
+      }
+    },
+    {
+      "query": "tag:#Movie  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": 0.7,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 1,
+  "repelStrength": 20,
+  "linkStrength": 0,
+  "linkDistance": 30,
+  "scale": 0.9999999999999997,
+  "close": true
+}
